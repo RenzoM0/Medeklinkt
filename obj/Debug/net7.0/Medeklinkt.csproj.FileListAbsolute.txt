@@ -1,0 +1,15 @@
+D:\Projects\Medeklinkt\bin\Debug\net7.0\Medeklinkt.exe
+D:\Projects\Medeklinkt\bin\Debug\net7.0\Medeklinkt.deps.json
+D:\Projects\Medeklinkt\bin\Debug\net7.0\Medeklinkt.runtimeconfig.json
+D:\Projects\Medeklinkt\bin\Debug\net7.0\Medeklinkt.dll
+D:\Projects\Medeklinkt\bin\Debug\net7.0\Medeklinkt.pdb
+D:\Projects\Medeklinkt\obj\Debug\net7.0\Medeklinkt.csproj.AssemblyReference.cache
+D:\Projects\Medeklinkt\obj\Debug\net7.0\Medeklinkt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Medeklinkt\obj\Debug\net7.0\Medeklinkt.AssemblyInfoInputs.cache
+D:\Projects\Medeklinkt\obj\Debug\net7.0\Medeklinkt.AssemblyInfo.cs
+D:\Projects\Medeklinkt\obj\Debug\net7.0\Medeklinkt.csproj.CoreCompileInputs.cache
+D:\Projects\Medeklinkt\obj\Debug\net7.0\Medeklinkt.dll
+D:\Projects\Medeklinkt\obj\Debug\net7.0\refint\Medeklinkt.dll
+D:\Projects\Medeklinkt\obj\Debug\net7.0\Medeklinkt.pdb
+D:\Projects\Medeklinkt\obj\Debug\net7.0\Medeklinkt.genruntimeconfig.cache
+D:\Projects\Medeklinkt\obj\Debug\net7.0\ref\Medeklinkt.dll
